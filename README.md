@@ -10,7 +10,7 @@ conda --version
 
 Step2: Create  a conda environment
 ```
-conda create -p venv python==3.8 -y
+conda create -p venv python==3.7 -y
 ```
 
 Step3:
